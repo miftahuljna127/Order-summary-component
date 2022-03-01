@@ -1,6 +1,6 @@
 
 # Frontend Mentor -  Order summary component
-This is solution [Order summary card from Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+This is solution challenge [Order summary card from Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
 ## Table of Contents
 - [Overview](#overview)
